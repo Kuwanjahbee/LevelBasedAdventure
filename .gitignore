@@ -69,7 +69,9 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/*
+*/Intermediate
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+LevelBasedAdventure/Content/StarterContent/
