@@ -2,7 +2,7 @@
 	"TargetName" : "LevelBasedAdventureEditor",
 	"Platform" : "Win64",
 	"Configuration" : "Development",
-	"BuildId" : "",
+	"BuildId" : "fa8611f8-50f2-46c1-b3a5-c675a66c7044",
 	"Version" : 
 	{
 		"MajorVersion" : 4,
@@ -17,15 +17,15 @@
 	"BuildProducts" :
 	[
 		{
-			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-LevelBasedAdventure.dll",
+			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-LevelBasedAdventure-2680.dll",
 			"Type" : "DynamicLibrary"
 		},
 		{
-			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-LevelBasedAdventure.pdb",
+			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-LevelBasedAdventure-2680.pdb",
 			"Type" : "SymbolFile"
 		},
 		{
-			"Path" : "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-LevelBasedAdventure.lib",
+			"Path" : "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-LevelBasedAdventure-2680.lib",
 			"Type" : "ImportLibrary"
 		},
 		{
