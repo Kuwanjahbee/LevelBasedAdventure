@@ -1,9 +1,8 @@
 {
-	"Changelist" : 3450819,
-	"CompatibleChangelist" : 3299760,
-	"BuildId" : "1ddcddb2-7ec6-4aa9-8a33-fc32d2a526e5",
+	"Changelist" : 3573198,
+	"BuildId" : "a87d5014-aacc-4b22-afd5-865cf459e7fc",
 	"Modules" : 
 	{
-		"LevelBasedAdventure" : "UE4Editor-LevelBasedAdventure-8310.dll"
+		"LevelBasedAdventure" : "UE4Editor-LevelBasedAdventure-2441.dll"
 	}
 }
